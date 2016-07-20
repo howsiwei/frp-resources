@@ -15,6 +15,9 @@
 - [Official website](http://elm-lang.org/)
 - [Introduction to elm 0.17](http://guide.elm-lang.org/)
 - [Introduction to elm 0.16](https://yang-wei.github.io/blog/categories/elm/)
+- [Code showcasing difference between 0.16 and 0.17](https://github.com/varung97/elm-example)
+- [Examples written using Arrows in Elm 0.16](https://github.com/varung97/elm-arrow)
+- [Short code examples in Elm 0.17](https://github.com/varung97/some-elm-stuff)
 
 #### Fran
 - [Author's website](http://conal.net/fran/)
@@ -24,6 +27,7 @@
 - [Original paper](http://ac.els-cdn.com/S0167642399000234/1-s2.0-S0167642399000234-main.pdf?_tid=f12ff1ec-4e51-11e6-8e1a-00000aacb362&acdnat=1469002632_8f3a12e28575c2c6e06adf46e39f9ed0)
 - [Useful](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
 - [Yampa Paper](http://www.cs.yale.edu/homes/hudak/CS429F04/AFPLectureNotes.pdf)
+- [How they prevent space/time leaks](http://www.thev.net/PaulLiu/download/leak.pdf)
 
 #### Frp-arduino
 - [Original library](https://github.com/frp-arduino/frp-arduino)
