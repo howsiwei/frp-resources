@@ -4,12 +4,16 @@
 - [Functional Reactive Programming](#functional-reactive-programming)
   - [Elm](#elm)
   - [Fran](#fran)
-  - [Arrows](#arrows)
-  - [Frp-arduino](#frp-arduino)
+  - [Arrowized-FRP](#arrowized-frp)
+    - [Yampa](#yampa)
+  - [FRPNow](#frpnow)
+  - [FRP-Arduino](#frp-arduino)
 - [Synchronous Programming](#synchronous-programming)
+  - [Lucid Synchrone](#lucid-synchrone)
   - [Signal](#signal)
 
 ### Functional Reactive Programming
+- [FRP Zoo](https://github.com/gelisam/frp-zoo)
 
 #### Elm
 - [Official website](http://elm-lang.org/)
@@ -23,18 +27,29 @@
 - [Author's website](http://conal.net/fran/)
 - [ICFP Paper](http://conal.net/papers/icfp97/icfp97.pdf)
 
-#### Arrows
-- [Original paper](http://ac.els-cdn.com/S0167642399000234/1-s2.0-S0167642399000234-main.pdf?_tid=f12ff1ec-4e51-11e6-8e1a-00000aacb362&acdnat=1469002632_8f3a12e28575c2c6e06adf46e39f9ed0)
+#### Arrowized-FRP
+- [Original paper](http://www.sciencedirect.com/science/article/pii/S0167642399000234)
 - [Useful](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
-- [Yampa Paper](http://www.cs.yale.edu/homes/hudak/CS429F04/AFPLectureNotes.pdf)
 - [How they prevent space/time leaks](http://www.thev.net/PaulLiu/download/leak.pdf)
 
-#### Frp-arduino
+#### Yampa
+- [Hackage](https://hackage.haskell.org/package/Yampa)
+- [Paper](http://www.cs.yale.edu/homes/hudak/CS429F04/AFPLectureNotes.pdf)
+
+#### FRPNow
+- [Hackage](https://hackage.haskell.org/package/frpnow)
+- [Paper](http://www.cse.chalmers.se/~atze/papers/prprfrp.pdf)
+
+#### FRP-Arduino
 - [Original library](https://github.com/frp-arduino/frp-arduino)
 - [Slightly extended version](https://github.com/varung97/frp-arduino)
 
 ### Synchronous Programming
 - [Synchronous Programming of Reactive Systems](http://www-verimag.imag.fr/~halbwach/newbook.pdf)
 
+#### Lucid Synchrone
+- [Author's website](https://www.di.ens.fr/~pouzet/lucid-synchrone/)
+
 #### Signal
 - [Polychrony](https://www.irisa.fr/Polychrony/), signal compiler bundled with documentations. The publications page contains many useful resources.
+- [Designing Embedded Systems with the SIGNAL Programming Language](https://www.springer.com/us/book/9781441909404)
