@@ -12,7 +12,7 @@
   - [Lucid Synchrone](#lucid-synchrone)
   - [Signal](#signal)
 
-### Functional Reactive Programming
+## Functional Reactive Programming
 - [FRP Zoo](https://github.com/gelisam/frp-zoo)
 
 #### Elm
@@ -27,7 +27,7 @@
 - [Author's website](http://conal.net/fran/)
 - [ICFP Paper](http://conal.net/papers/icfp97/icfp97.pdf)
 
-#### Arrowized-FRP
+### Arrowized-FRP
 - [Original paper](http://www.sciencedirect.com/science/article/pii/S0167642399000234)
 - [Useful](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
 - [How they prevent space/time leaks](http://www.thev.net/PaulLiu/download/leak.pdf)
@@ -44,7 +44,7 @@
 - [Original library](https://github.com/frp-arduino/frp-arduino)
 - [Slightly extended version](https://github.com/varung97/frp-arduino)
 
-### Synchronous Programming
+## Synchronous Programming
 - [Synchronous Programming of Reactive Systems](http://www-verimag.imag.fr/~halbwach/newbook.pdf)
 
 #### Lucid Synchrone
